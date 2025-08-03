@@ -20,7 +20,7 @@ A simple Python scraper that collects product data from the IKEA Germany website
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ikea-scraper.git
+   git clone https://github.com/ayz3ro/ikea-scraper.git
    cd ikea-scraper
    ```
 
